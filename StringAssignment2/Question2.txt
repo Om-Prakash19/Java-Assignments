@@ -1,0 +1,12 @@
+
+Question--> Types of String in java .
+
+Ans: In java there are two types of String --
+1.Mutable String
+2.Immutable String
+
+1.Mutable String : In Mutable String changes one is reflected on the same object or we can say no new object is created on memory on every changes done on String.
+ Eg.StringBuffer,StringBuilder.
+
+2.Immutable String : In Immutable String changes cannot be done or we can say for every change a new object is created in memory.
+Eg. String.

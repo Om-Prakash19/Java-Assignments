@@ -1,0 +1,4 @@
+
+Question--> Where exactly is the String Constant Pool located in the memory ?
+
+Ans : String Constant Pool(SCP) is a small part of Heap area in memory.

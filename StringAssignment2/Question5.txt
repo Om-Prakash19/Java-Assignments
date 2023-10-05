@@ -1,0 +1,6 @@
+
+Question--> what do you mean by mutable and immutable object ?
+
+Ans : Mutable Objects: mutable objects are created when we define a mutable string.It's value can be changed and is stored in the same object.
+
+Immutable object : immutable objects are created when  we difen an immutable string.It's value can't be changed as if we do changes in string a new object will be created.

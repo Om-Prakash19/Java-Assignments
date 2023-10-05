@@ -1,0 +1,7 @@
+
+Question--> What is String in Java ? 
+
+Ans : String is a collection of Characters in Java.
+String are types of objects in Java that are designed to store Characters.
+It is stored in java.lang package.
+Eg. "Sachin","abs65@",etc...

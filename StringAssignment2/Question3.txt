@@ -1,0 +1,10 @@
+
+Question--> In how many ways can you create string object in java?
+
+Ans : In java basically we can create string objects in two ways.They are :
+
+1.By directally initilising value without using new keyword.
+Eg. String s1 = "Om";
+
+2.By using new keyword
+Eg. String s2 = new String("Om;)

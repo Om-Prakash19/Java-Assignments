@@ -1,0 +1,4 @@
+
+Question--> What is String Constant Pool ? 
+
+Ans : String Constant Pool(SCP) is a location in Heap area of memory where a object is created when we initialise an immutable String without using new keyword.In SCP duplicates are not allowed so if two variables have same data contained in it then they will point to same object.
