@@ -1,0 +1,3 @@
+Q. Why is a static method also calleda class method ?
+
+Ans--> As a static method can be called directly by class name and we don't have to create object to call it , that's why it is also called class method.

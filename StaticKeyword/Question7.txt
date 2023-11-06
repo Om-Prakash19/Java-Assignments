@@ -1,0 +1,11 @@
+Q. Difference between static and instance variables.
+
+Ans--> Static variables : 
+        -> This variables can be called directly by class name and we don't have to create an object to call it.
+        -> We declare this variable using this keyword.
+        -> The memory for static variables is allocated in method area.
+
+    Instance variables :
+        -> If we want to call or access this variables then we have to create an object for it.
+        -> We don't need any keyword to declare it.
+        -> The memory for instance variable is allocated in heap area.

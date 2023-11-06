@@ -1,0 +1,12 @@
+Q. Difference between static and non-static members.
+
+Ans--> Static members :
+        ->This members wil get memory in method area.
+        ->Inside a static area we camn access static variables only.
+        ->Static members are created using static keyword.
+
+
+    Non-static members :
+        ->This members will get memory in heap area.
+        ->Inside a non-static area we can access both static as well as non-static members.
+        ->We don't need any specific keyword to declare it.

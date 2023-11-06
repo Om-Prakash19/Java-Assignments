@@ -1,0 +1,3 @@
+Q. What happens if you keep a return type for a constructor ?
+
+Ans--> If a keep a return type for a constructor then their will be no compile time error and this will be treated as a normal method and not a constructor.

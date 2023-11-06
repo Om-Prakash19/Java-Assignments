@@ -1,0 +1,13 @@
+Q. What is Class Loading and how does the Java program actually executes?
+
+Ans--> In Java class loading is the process of loading of class files in the JVM(Java Virtual Machine).
+
+This is how a Java program is executed :
+
+    1.Compilation: First we write a Jva code in a .java file.This java file is then converted into bytecode by the Java compiler.
+
+    2.Class Loading : When our java program is executed , JVM is responsible for loading the classes as per the need.
+
+    3.Initialization : After loading , JVM initializes static block.
+
+    4.Execution : Then our Java program starts executing after invoking the main method and the loading and Initialization will happen as per the need.

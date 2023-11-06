@@ -1,0 +1,5 @@
+Q. Why do we need static keyword in Java ? Explain with example.
+
+Ans--> The static keyword is used mostly when we want to efficiently manage our memory.
+
+For example if a variable is used many times with the same value for example hundred times , instead of declaring it as a normal variable we can declare it as a static variable so that a single copy of it will be generated and it will be called many times in JVM. 

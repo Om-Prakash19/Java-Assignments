@@ -1,0 +1,8 @@
+Q. What are the important features of Encapsulation ?
+
+Ans--> Important features of encapsulation are : 
+
+    1.Through data hiding we can achieve Security.
+    2.Enhancement of the program becomes easy.
+    3.Modularisation becomes much easy for us.
+    4.It provides flexibility to the programmer if he wants to make any changes in it.

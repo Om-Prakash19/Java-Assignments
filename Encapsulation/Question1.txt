@@ -1,0 +1,6 @@
+Q. What is Encapsulation in Java ? Why it is called data hiding  ?
+
+Ans--> Encapsulation : Encapsulation is the combination of data hiding and abstraction.
+       Encapsulation = data hiding + abstraction
+
+Data hiding means not exposing our data directly to the real world.

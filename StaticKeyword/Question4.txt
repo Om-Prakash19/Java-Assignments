@@ -1,0 +1,3 @@
+Q. Why is the static block executed before the main method in Java ?
+
+Ans--> Static block is executed before the main method because static blocks are executed at the time of class loading only(initialization) whereas the JVM has to invoke main method.

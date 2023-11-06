@@ -1,0 +1,4 @@
+Q. What is a Constructor ?
+
+Ans--> Constructor is a special method which is used to initialize. 
+A constructor is called when an object is of a class is created.

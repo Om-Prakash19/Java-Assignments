@@ -1,0 +1,5 @@
+Q. Can we call a subclass constructor from a superclass constructor ?
+
+Ans--> No, we cannot call a subclass constructor from a superclass constructor.
+
+
