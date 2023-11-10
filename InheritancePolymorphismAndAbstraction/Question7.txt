@@ -1,0 +1,11 @@
+Q. What  is the difference between abstract method and final method in java ?  explain.
+
+Ans. Abstract method :
+* Abstract method is a method which is declared using "abstract" keyword.
+*Abstract method is used where we don't want to give body to a method.
+*Abstract method's body should be compulsorily given in child class.
+
+Final Method :
+* Final method is declared using "final" keyword.
+* Final method is used when we don't want to override the method in the subclass.
+*Final method can't be overriden in the child class.

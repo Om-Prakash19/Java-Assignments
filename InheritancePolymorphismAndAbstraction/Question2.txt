@@ -1,0 +1,5 @@
+Q. What is superclass and subclass in Java ?
+
+Ans--> Super class is the class from which features are inherited to another class.It is also called parent class or base class.
+
+Sub class is the class which inherit features from another class. It is also called child class.

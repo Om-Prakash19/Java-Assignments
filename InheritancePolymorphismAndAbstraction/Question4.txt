@@ -1,0 +1,6 @@
+Q. What is polymorphism ?
+
+Ans--> Polymorphism is defined as a thing which exists in many forms.
+
+In Java there are two types of Polymorphism :
+Static polymorphism which is achieved through method overloading and dynamic polymorphism which is achieved through method overriding.

@@ -1,0 +1,3 @@
+Q. What is final class in Java ?
+
+Ans--> Final class is a class which is declared using "final" keyword. It is used when we don't want the class to take part in inheritance. If we try to do so it will result in compilation error.

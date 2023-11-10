@@ -1,0 +1,3 @@
+Q. How is inheriance implemented/achieved in Java ? 
+
+Ans--> In Java Inheritance is achieved through "extends" keyword.

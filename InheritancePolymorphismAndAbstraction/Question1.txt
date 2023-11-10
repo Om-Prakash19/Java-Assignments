@@ -1,0 +1,3 @@
+Q. What is Inheritance in Java ? 
+
+Ans--> Inheritance in java means inheriting data from one class to another class. It is achieved using "extends" keyword.

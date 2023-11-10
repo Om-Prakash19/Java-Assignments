@@ -1,0 +1,13 @@
+Q. Differentiate between method overloading and overriding .
+
+Ans--> Method overloading :
+* The process of extending the existing method functionality with new functionality is called method overloading.
+* It is also called static polymorphism and compile time polymorphism.
+*In this case different method parameters must be given.
+*We can achieve it with or without inheriance.
+
+Method overriding :
+*The process of replacing the existing method functionality with new functionality is called method overriding.
+*It is also called dynamic polymorphism and run time polymorphism.
+*In this  case the same method parameters must be provieded.
+*We can only achieve this through inheritance.
