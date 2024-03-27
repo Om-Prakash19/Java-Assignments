@@ -1,0 +1,3 @@
+Question --> What is lambda expression of Java 8 ?
+
+Answer --> Lambda expression in Java is an anonymous function which is used to bring benefits of functional programming .

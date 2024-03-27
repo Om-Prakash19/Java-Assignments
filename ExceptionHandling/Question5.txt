@@ -1,0 +1,19 @@
+Question -- > what is the difference between exception and error in Java ?
+
+Answer --> Differences between exception and error in Java :
+
+Exception :
+
+-> Exception refers to unexpected events that disturbs the normal flow of the program and results in abnormal termintion.
+
+-> In most of the cases exceptions are caused by our program and can be recovered.
+Eg. RunTimeException,IOException,SQLException,etc.
+
+
+Error :
+
+->Error refers to the logical or syntactical mistakes done by programmer.
+
+-> In most of the cases errors are not caused by our program but it occurs due to lack of resources 
+hence it can't be recovered.
+Eg.VirtualMachineError,IOError,AssertionError,etc.

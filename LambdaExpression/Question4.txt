@@ -1,0 +1,3 @@
+Question -- > Why do we use lambda expression in Java ?
+
+Answer --> When we want benefits of functional programming in Java , we use lambda expression.

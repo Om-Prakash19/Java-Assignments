@@ -1,0 +1,16 @@
+Question -- > Explain different types of errors in Java ?
+
+Answer --> In Java errors are of two types :
+
+1.Syntax Error : 
+
+->It refers to mistakes done by the programmer with respect to syntax of a java program.
+
+->These mistakes are identified by compiler , so it is also called "CompiledTimeMistake".
+
+
+2.Logical Error :
+
+->It refers to the logical mistakes done by the programmer.
+
+->These mistakes are identified by JVM so it is also called "RunTimeMistake".

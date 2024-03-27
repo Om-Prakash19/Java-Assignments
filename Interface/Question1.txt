@@ -1,0 +1,4 @@
+Question --> What is an interface in Java ?
+
+Answer --> Interface in Java is a contract between client and service provider. 
+If we don't know anything about implementation and we know only about requrements then we go for an interface.

@@ -1,0 +1,4 @@
+Question -- >  What is the functional interface in Java 8 ?
+
+Answer -- > If an interface allows only one abstract method then it is called functional interface.
+Functional interface can contain only one abstract method but any number of default and static methods.

@@ -1,0 +1,3 @@
+Question -- > Why do we need exception handling in Java  ?
+
+Answer --> As exceptions results in abnormal termination of our java program so to prevent this or to handle this exceptions we use exception handling in Java.

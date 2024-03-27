@@ -1,0 +1,3 @@
+Question -- > Can you pass lambda expression to a method ? When ?
+
+Answer --> Yes , we can pass lambda expression to  a method.For this the method should have an argument of type functional interface.

@@ -1,0 +1,3 @@
+Question --> What is an exeption in Java ?
+
+Answer --> An unexpected event which disrupts the normal termination of the program is called exception.

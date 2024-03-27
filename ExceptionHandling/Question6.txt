@@ -1,0 +1,10 @@
+Question --> Name the different types of exceptions in Java.
+
+Answer --> different types of exceptions in Java are :
+
+->RunTimeException
+->IOException
+->SQLException
+->AWTException
+->InterruptedException
+and many more...

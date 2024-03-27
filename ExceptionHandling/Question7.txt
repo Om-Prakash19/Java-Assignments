@@ -1,0 +1,3 @@
+Question --> Can we just use try instead of finally and catch blocks ?
+
+Answer --> No , we cannot just use try instead of finally and catch blocks.It would result in compilation error.

@@ -1,0 +1,3 @@
+Question --> What is the use of interface in Java ?
+
+Answer --> Interface in Java is used when we only know the requirement of a method and don't know it's imlementation i.e. when we want 100% abstraction we use interface.

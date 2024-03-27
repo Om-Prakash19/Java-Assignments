@@ -1,0 +1,20 @@
+Question --> What is the diference between abstract class and interface in java ?
+
+Answer --> Differences between abstract classes and interface in Java : 
+
+Interfaces : 
+
+1. Interfaces are used when we want 100% abstraction or we don't know the implementation of methods.
+2.In interface methods are by default declared public and abstract.
+3.We can't use other access modifiers in methods like private,protected,static,final,etc.
+4.In interfaces variables are by default declared public static final.
+5.We can't use other access modifiers in variables like private,protected,abstract,etc.
+
+
+Abstract classes : 
+
+1.Abstract class is used when we want abstraction between 0-100 % or we partially know the implementation of methods.
+2.In abstract class there is no by deafult declaration of methods.
+3.There is no restriction in the use of access modifiers in abstract class in methods.
+4.In abstract class there is no by default decalaration of variables.
+5.We can use access modifiers for variables in abstract class as there is no restriction.
