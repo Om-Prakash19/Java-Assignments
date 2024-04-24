@@ -1,0 +1,3 @@
+Question : What is the difference between Iterator and ListIterator ?
+
+Answer : ListIterator is a child interface of interface. All of its feature are same as Iterator except in ListIterator we can move either to the forward direction or to the backward direction.As ListIterator is bi-redirectional cursor.But this feature is not available in Iterator as Iterator is a uni-directional cursor.

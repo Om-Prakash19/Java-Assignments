@@ -1,0 +1,3 @@
+Question : What is Collection framework in Java ? 
+
+Answer : If we want to store both homogeneous and heterogeneous data we use collection.

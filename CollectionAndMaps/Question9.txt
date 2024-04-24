@@ -1,0 +1,3 @@
+Question --> What are the commonly used implementations of Map in Java ?
+
+Answer : Commonly used implementations of Map in Java are HashMap , HashTable , TreeMap and LinkedHashMap.

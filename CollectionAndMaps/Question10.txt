@@ -1,0 +1,9 @@
+Question --> What is the difference between HashMap and TreeMap ?
+
+Answer : HashMap :
+-> Internal data structure used is HashTable.
+-> Heterogeneous objects are allowed.
+
+TreeMap :
+-> Internal data structure used is "redblacktree".
+-> heterogeneous objects are not allowed by default.

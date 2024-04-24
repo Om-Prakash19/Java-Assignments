@@ -1,0 +1,3 @@
+Question --> How do you check if a key exists in a Map in Java ?
+
+Answer : To check if a key exists in a Map we can use containskey() method or get() method. containskey() method return true if the key is present or it exit and get() method return the value of key if present else returns null value.

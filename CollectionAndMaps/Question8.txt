@@ -1,0 +1,3 @@
+Question --> What is Map in Java ?
+
+Answer : Map is an interface in Java which is used when we want to represent a group of individual objects as key-value pair.

@@ -1,0 +1,9 @@
+Question : What is the difference between List and Set ?
+
+Answer : List :
+-> In List duplicate elements are allowed.
+-> In it insertion order is preserved.
+
+Set :
+->In Set duplicate elements are not allowed.
+->In it insertion order is not preserved.

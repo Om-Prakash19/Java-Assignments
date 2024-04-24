@@ -1,0 +1,9 @@
+Question--> What is the difference between Array and ArrayList ?
+
+Answer : Array : 
+-> In it size of the array is fixed or static.
+-> It can only store homogeneous elements to it but not Heterogeneous elements.
+
+ArrayList :
+-> In it size is dynamic.
+-> It can store both homogeneous as well as heterogeneous elements.

@@ -1,0 +1,8 @@
+Question : What is the difference between ArrayList and LinkedList  ?
+
+Answer : 
+ArrayList : 
+-> It is used when our frequent operation is "retrieval operation" , as it implements RandomAccess interface.
+
+LinkedList : 
+-> It is used when we want to insert or delete elements in the middle.

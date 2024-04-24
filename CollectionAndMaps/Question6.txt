@@ -1,0 +1,9 @@
+Question : What is the difference between HashSet and TreeSet ?
+
+Answer : HashSet :
+-> Internal data structure is HashTable.
+-> Heterogeneous elements can be added to it.
+
+TreeSet :
+-> Internal data structure is Balanced Tree.
+->Heterogeneous elements cannot be added to it.

@@ -1,0 +1,9 @@
+Question : What is the difference between Iterator and Enumeration ?
+
+Answer : Enumeration :
+->Enumeration is applicable only for legacy classes as it is not a universal cursor.
+->By using it we can only perform read operation but cannot remove any element.
+
+Iterator : 
+->Iterator is applicable for all type of classes as it is a universal cursor.
+->By using it we can perform read operation as well as we can remove any element.
