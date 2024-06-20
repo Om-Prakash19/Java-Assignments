@@ -1,0 +1,21 @@
+Question --> What is Difference bet1een Externalizable and Serializable interface ?
+
+Answer : Differences between Serializable and Externalizable interface : 
+
+Serializable :
+->It is meant for default serialization.
+->Here everything is taken care by JVM and programmer do not have any control.
+->Here only the total object will be saved. It is not possible to save part of the object.
+->Serializable is best choice if we want to save total object to the file.
+->Realatively performance is low.
+->Serializable interface do not contain any method. So it is a marker interface.
+-> Serializable class do not require to contain any public no-arg contructor.
+
+Externalizable :
+->It is meant for customized serialization.
+->Here everything is taken care by programmer and JVM do not have any control.
+->Here not only we can save total object but part of a object can also be saved.
+->Serializable is best choice if we want to save part of object to the file.
+->Realatively performance is high.
+->Serializable interface contain two methods. So it is not a marker interface.
+-> Serializable class do require to contain any public no-arg contructor. In absence of no-arg constructor we will get RunTimeException saying "InvalidClassException".

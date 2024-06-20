@@ -1,0 +1,3 @@
+Question --> What is Generics class in Java  ?
+
+Answer : A Generics class simply means that the methods or items inside the class can be generalized with the parameter(Example T). So we can add any type as parameter in place of T like Integer, Character , String or any user defined type.

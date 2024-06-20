@@ -1,0 +1,4 @@
+Question --> What is Input and Output Stream in Java ?
+
+Answer : Input Stream is used to read data from the user
+while Output Stream is used to provide data to the user.

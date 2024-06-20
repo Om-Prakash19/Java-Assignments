@@ -1,0 +1,4 @@
+Question --> What is a Generic Method in Java ?
+
+Answer : A generic method in Java is a method which is unlike normal method can be called with argument of different types. This is in contrast to normal method which can only be called with the argument of specific type.
+Generic methods are declared using Type Parameters.

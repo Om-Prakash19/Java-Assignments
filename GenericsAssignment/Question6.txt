@@ -1,0 +1,13 @@
+Question --> What are the difference between ArrayList and ArrayList<T> ?
+
+Answer : Differences between ArrayList and ArrayList<T> :
+
+ArrayList :
+-> It is non generic version of ArrayList object.
+-> It do not provide TypeSafety as we can add any elements into the ArrayList.
+-> When retrieving an element we have to do TypeCasting as by default all elkements are stored as an element of Object class.
+
+ArrayList<T> :
+->It is the Generic version of ArrayList object.
+-> It provide TypeSafety and we can only add indicated type of elements in the ArrayList.
+-> When retrieving an element we don't have to do TypeCasting as all elements are stored as a type indicated before.

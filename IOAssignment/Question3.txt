@@ -1,0 +1,3 @@
+Question --> What is serialization in java ?
+
+Answer : The process of saving or writing the state of an object to a file is called Serialization.

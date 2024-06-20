@@ -1,0 +1,3 @@
+Question --> How can you avoid certain member variables of class from getting Serialized ?
+
+Answer : To avoid certain member variable of a class from getting Serialized we have to use "transient" keyword.

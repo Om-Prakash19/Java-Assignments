@@ -1,0 +1,7 @@
+Question --> What are the methods of OutputStream ?
+
+Answer : Some of the methods of OutputStream are :
+-> write(int b) : It writes the specified byte to the output stream.
+-> write(byte[] b) : It writes the specified byte array to the output stream.
+-> flush() : It flushes the output stream.
+-> close() : It closes the output stram.

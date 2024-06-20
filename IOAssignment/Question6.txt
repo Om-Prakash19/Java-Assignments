@@ -1,0 +1,3 @@
+Question --> How is Serialization achieved in java ?
+
+Answer : Serialization is achieved in Java using FileOutputStream and ObjectOutputStream classes.

@@ -1,0 +1,4 @@
+Question -- > What is Serializable interface in Java ?
+
+Answer : The Serializable interface in java is a marker interface which is used when we need to serialize an object.
+To make a class serialixzable we need to implement the Serializable interface.

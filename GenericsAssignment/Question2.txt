@@ -1,0 +1,3 @@
+Question --> What are the benefits of using Generics in Java  ?
+
+Answer : Generics in Java solves to main problem of using Collections API that were Typesafety and Typecasting problems.

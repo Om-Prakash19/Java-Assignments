@@ -1,0 +1,3 @@
+Question --> What are Generics in Java ?
+
+Answer : Generics is a concept or we can say feature in Java which are used to solve two major drawbacks of Collections API that is to provide typesafety and to resolve typecasting problems.

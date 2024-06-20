@@ -1,0 +1,3 @@
+Question --> How is DeSerialization achieved in Java ?
+
+Answer : DeSerialization is achieved in Java using FileInputStream and ObjectInputStream classes.

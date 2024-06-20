@@ -1,0 +1,14 @@
+Question --> What classes are available in Java IO File Classes API ?
+
+Answer : Some of the classes available in Java IO API are :
+
+->File
+->FileReader
+->BufferedReader
+->FileWriter
+->Bufferedwriter
+->PrintWriter
+->FileOutputStream
+->ObjectOutputStream
+->FileInputStream
+->ObjectInputStream

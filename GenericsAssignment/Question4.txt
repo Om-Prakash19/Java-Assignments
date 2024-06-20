@@ -1,0 +1,4 @@
+Question --> What is Type Parameter in Java Generics ?
+
+Answer : A Type Parameter is a Generic Type parameter that allows clases to store objects of a freely open choosen type.The choice is based on the type parameter in class's definition.
+Eg. ArrayList<String>. 
