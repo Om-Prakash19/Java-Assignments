@@ -1,0 +1,4 @@
+Question-> What are in built annotations in java ?
+
+Answer : Built in annotations are the annotations that can be used to provide additional information about code elements and can be used by JVM and Java Compiler.
+Some of the common in built annotations are - @override , @FunctionalInteface , @Inherited ,@Deprecated and many more...
