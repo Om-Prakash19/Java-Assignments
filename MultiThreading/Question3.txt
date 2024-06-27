@@ -1,0 +1,3 @@
+Question --> What is thread in Java ?
+
+Answer : Thread is simply a flow of execution in Java.

@@ -1,0 +1,5 @@
+Question --> What is MultiThreading ? Why is it important ?
+
+Answer : MultiThreading means executing several task at a particular time where each task is a separate independent part of the same program .
+
+It is important beacause it improves the performance of the operating system by reducig the response time.

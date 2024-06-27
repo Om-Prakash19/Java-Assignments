@@ -1,0 +1,6 @@
+Question --> How can we create daemon threads ?
+
+Answer : We can create Daemon thread by using setDaemon(boolean b) method.
+Eg. MyThread t = new MyThread();
+boolean b = t.setDaemon(boolean b);
+System.out.println(b); //true

@@ -1,0 +1,5 @@
+Question --> What are wait() and sleep() methods ?
+
+Answer : wait() method : wait() method is used where a thread is expecting a notification/updation . After calling wait() method thread will enter into waiting area.
+
+sleep() method : sleep() method is used when we want a thread to stop performing it's opeartion for a given amount of time.

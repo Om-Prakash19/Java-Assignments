@@ -1,0 +1,3 @@
+Question --> What are the benefits of using MultiThreading ?
+
+Answer : Benefit of using MultiThreadingis that it improves the performance of the operating system by reducig the response time.

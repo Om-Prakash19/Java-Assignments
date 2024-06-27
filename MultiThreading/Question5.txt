@@ -1,0 +1,5 @@
+Question -> What's the difference between thread and process ?
+
+Answer : Thread : Thread is a flow of execution.
+
+Process : Process is entire execution which includes flow of execution i.e., threads.

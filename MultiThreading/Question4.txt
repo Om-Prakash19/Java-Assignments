@@ -1,0 +1,5 @@
+Question --> What are the two ways of implementing thread in Java ?
+
+Answer : There are two ways of implementing thread in Java . They are -
+-> By extending Thread class
+-> By implementing Runnable interface.
