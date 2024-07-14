@@ -1,0 +1,18 @@
+Question 4: Given a recurrence relation: 
+T(n) = 16*T(n/4) + (n^2)*logn 
+Find the time complexity of this relation using the master theorem. 
+
+Solution: 
+Given : T(n) = 16*T(n/4) + (n^2)*logn 
+
+Required form for master's theorem = a*T(n/b) + O((n^k)*(logn^p))
+
+Now value are a = 16 , b = 4 , k = 2 and  p = 1
+
+Now a = 16 and b^k = 16
+so a = b^k so it is the 2nd case
+
+now p>-1 so
+T(n) = O((n^(logba))*((logn^)^(p+1)))
+
+Now putting value we get T(n) = O((n*logn)^2) Answer

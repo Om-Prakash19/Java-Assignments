@@ -1,0 +1,19 @@
+Question --> Analyze the time complexity of the following Java code and suggest a way to improve it: 
+int sum = 0; 
+for(int i = 1; i <= n; i++) { 
+    for(int j = 1; j <= i; j++) { 
+        sum++; 
+    }
+}
+
+Answer : Let here n = 5 so,
+for i = 1 -> j = 1 and sum will be 1
+for i = 2 > j = 1 and j = 2 so sum will be 3
+similarly for i = 5 j will iterate from 1 to 5 and the final value of the sum is 15
+From here we can see that we are getting sum of n natural numbers i.e. sum of first 5 natural numbers is 15.
+Because of looping Time Complexity here is O(((n)*(n+1))/2) which is quite high.
+
+We can reduce this time complexity as we have to only find the Sum of first n natural numbers.It can be done in following way : 
+int sum = 0;
+sum = ((n)*(n+1))/2;
+Here time complexity is O(1) which is constatnt time complexity.

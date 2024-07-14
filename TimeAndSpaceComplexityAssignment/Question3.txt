@@ -1,0 +1,30 @@
+Question --> Given a recurrence relation, solve it using a substitution method. 
+             Relation : T(n) = T(n - 1) + c 
+
+Solution: Given : T(n) = T(n-1) + c (where c is a constant)  --(1)
+now T(n-1) = (Tn-2) + c
+putting it in eqn (1) we get
+T(n) = T(n-2) + c + c
+T(n) = T(n-2) + 2c  --(2)
+
+now simlarly  we can write
+T(n-2) = T(n-3) + c 
+and now putting it in eqn (2)
+T(n) = T(n-3) + 2c + c
+T(n) = T(n-3) + 3c  --(3)
+
+
+now  we can write
+T(n-3) = T(n-4) + c
+and now putting it in eqn (3)
+T(n) = T(n-4) + 3c + c
+T(n) = T(n-4) + 4c 
+
+and by this pattern we get
+T(n) = T(n-k) + kc
+
+At last level size becomes 1 so
+=> n-k = 1
+=> k = n-1
+
+So The Time Complexiy is O(n) Answer

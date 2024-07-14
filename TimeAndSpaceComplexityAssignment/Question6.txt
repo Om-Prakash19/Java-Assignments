@@ -1,0 +1,45 @@
+Question -->  T(n) = 2T(n/2) + K, Solve using Recurrence tree method.
+
+Solution : 
+Given : T(n) = 2T(n/2) + k where k is constant
+
+                            k
+                           / \
+                      T(n/2)  T(n/2)
+
+                            k
+                           /  \
+                          /    \
+                         /      \ 
+                        /        \
+                       k/2        k/2
+                      /  \       /   \
+                   k/4  k/4    k/4     k/4
+                  /  \   / \    /  \    /  \
+                k/8 k/8 k/8 k/8 k/8 k/8 k/8 k/8
+                /\  /\  /\  /\   /\  /\  /\  /\
+                ............................
+                ............................
+
+total number of levels in recursion tree:
+-> size of sub problem at level-0 = n/2^0
+-> size of sub problem at level-1 = n/2^1
+-> size of sub problem at level-2 = n/2^2
+
+continuining in similar manner, we have
+size of sub-probelm at level-i = n/2^i
+suppose at level i(last level) ,size of sub probelem becomes 1. Then - n/2^i = 1
+2^i = n
+taking log on both sides(with the base 2),
+we get,
+ilog2 = logn
+=> i = logn
+
+T(n) = sum of time at each level
+T(n) = k + k + k + k + .....upto logn times
+T(n) = k(1+1+1+....upto logn times)
+T(n)= klogn
+as k is a constant so T(n) = logn
+
+Hence the time complexity is T(n) = O(logn)
+

@@ -1,0 +1,45 @@
+Question --> Solve the following recurrence relation using recursion tree method T(n) = 2T(n/2) + n 
+
+Solution : 
+Given : T(n) = 2T(n/2) + n
+
+                            n
+                           / \
+                      T(n/2)  T(n/2)
+
+                            n
+                           /  \
+                          /    \
+                         /      \ 
+                        /        \
+                       n/2        n/2
+                      /  \       /   \
+                   n/4  n/4    n/4     n/4
+                  /  \   / \    /  \    /  \
+                n/8 n/8 n/8 n/8 n/8 n/8 n/8 n/8
+                /\  /\  /\  /\   /\  /\  /\  /\
+                ............................
+                ............................
+
+total number of levels in recursion tree:
+-> size of sub problem at level-0 = n/2^0
+-> size of sub problem at level-1 = n/2^1
+-> size of sub problem at level-2 = n/2^2
+
+continuining in similar manner, we have
+size of sub-probelm at level-k = n/2^k
+suppose at level k(last level) ,size of sub probelem becomes 1. Then - n/2^k = 1
+2^k = n
+taking log on both sides(with the base 2),
+we get,
+klog2 = logn
+=> k = logn
+
+T(n) = sum of time at each level
+T(n) = n + n + n + n ...upto logn times
+T(n) = n(1+1+1+1...upto logn times)
+T(n) = nlogn
+
+Hence we can comnclude that Time Complexity is = O(nlogn) Answer
+
+
