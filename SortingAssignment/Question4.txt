@@ -1,0 +1,5 @@
+Question : Find out how many pass would be required to sort the following array in descending order.
+Input Array {3,5,1,6,0}
+
+Answer : 4 pass
+
